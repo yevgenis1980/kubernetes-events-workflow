@@ -19,7 +19,7 @@ resource "helm_release" "minio" {
 
       # Buckets to create automatically
       buckets = [
-        { name = "langsmith" },
+        { name = "events" },
         { name = "airbyte" }
       ]
 
