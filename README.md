@@ -1,7 +1,7 @@
-<img width="1138" height="549" alt="image" src="https://github.com/user-attachments/assets/de0a66cc-280f-4526-b163-d49d9e4c2cd9" />
+<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/0d4b104b-7424-41ee-89db-34fc4b9c68ae" />
 
 
-## Langsmith | AWS - GCP - Azure
+## Argo Events | Kubernetes
 LangSmith is a developer platform by LangChain for building, debugging, testing, and monitoring LLM-powered applications.
 
 
