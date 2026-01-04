@@ -1,3 +1,4 @@
+
 variable "minio_root_password" {
   description = "Root password for MinIO"
   type        = string
